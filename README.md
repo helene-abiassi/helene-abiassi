@@ -2,7 +2,7 @@
 
 I’m a dedicated and curious web developer on a never-ending journey to grow and learn in the world of campaigning, communications and front-end web development!
 </br></br>
-💬 I speak Français, English, عربي, and a little bit of Español and Deutsch</br>
+💬 I speak Français || English || عربي || and a little bit of Español and Deutsch</br>
 👀 I’m interested in ... </br>
 🌱 You can check out my campaigns and projects at www.heleneabiassi.com</br>
 📫 You can reach me at abiassi.helene@gmail.com</br>
