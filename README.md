@@ -12,16 +12,13 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 <h2>Languages and Tools:</h2>
 <p >
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,bootstrap,tailwind,vue," />
-  </a>
 </p>
 
 <h2>Additional Skills</h2>
 <p >
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,wordpress" />
-  </a>, Behance, Slack, inDesign, Drupal, Mailchimp
+, Behance, Slack, inDesign, Drupal, Mailchimp
 </p>
 
 
