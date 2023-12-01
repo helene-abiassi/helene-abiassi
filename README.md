@@ -12,7 +12,7 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 <h2>Languages and Tools:</h2>
 <p >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,bootstrap,tailwind,vue," />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,bootstrap,tailwind" />
 </p>
 
 <h2>Additional Skills</h2>
