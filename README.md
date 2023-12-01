@@ -12,12 +12,12 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 <h2>Languages and Tools:</h2>
 <p >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,figma,bootstrap,tailwind" />
 </p>
 
 <h2>Additional Skills</h2>
 <p >
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,wordpress" />
 , Behance, Slack, inDesign, Drupal, Mailchimp
 </p>
 
