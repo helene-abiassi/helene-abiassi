@@ -14,7 +14,6 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 <p >
     <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,figma,bootstrap,tailwind, MongoDB, apollo, firebase, nodejs, express" />
 </p>
-
 <h2>Additional Skills</h2>
 <p >
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,wordpress" /></p>
