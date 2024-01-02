@@ -17,8 +17,6 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 <h2>Additional Skills</h2>
 <p >
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,wordpress" />
-, Behance, Slack, inDesign, Drupal, Mailchimp
-</p>
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,wordpress" /></p>
 
 
