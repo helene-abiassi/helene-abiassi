@@ -19,3 +19,4 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,wordpress" /></p>
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h7s6lexjjjec6bg6q3kcoprgqi&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
