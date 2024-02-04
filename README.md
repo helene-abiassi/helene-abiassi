@@ -1,6 +1,6 @@
 <h1>Hey ho! I’m Helene Abi Assi👋</h1>
 
-I’m a dedicated and curious web developer on a never-ending journey to grow and learn in the world of campaigning, communications and full-stack web development!
+I’m a dedicated and curious web developer on a never-ending journey to grow and learn in the world of campaigning, communications, and full-stack web development!
 </br></br>
 💬 I speak Français || English || عربي || and a little bit of Español and Deutsch</br>
 🏢 Recently graduated as a Full-Stack Developer from Code Academy Berlin 
@@ -14,7 +14,7 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 <h2>Languages and Tools:</h2>
 <p >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,figma,bootstrap,tailwind, MongoDB, apollo, firebase, nodejs, express" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,css,html,js,ts,netlify,postman,react,nextjs,graphql,figma,bootstrap,tailwind,MongoDB,apollo,firebase,nodejs,express" />
 </p>
 <h2>Additional Skills</h2>
 <p >
