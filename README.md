@@ -1,7 +1,6 @@
 <h1>Hey ho! I’m Helene Abi Assi👋</h1>
-<p >
 I’m a dedicated and curious web developer on a never-ending journey to grow and learn in the world of campaigning, communications, and full-stack web development!
- </p>
+
 </br></br>
 💬 I speak Français || English || عربي || and a little bit of Español and Deutsch</br>
 🏢 Recently graduated as a Full-Stack Developer from Code Academy Berlin 
