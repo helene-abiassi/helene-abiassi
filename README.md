@@ -3,7 +3,8 @@ I’m a dedicated and curious web developer on a never-ending journey to grow an
 
 </br></br>
 💬 I speak Français || English || عربي || and a little bit of Deutsch and Español</br>
-🏢 Recently graduated as a Full-Stack Developer from Code Academy Berlin 
+👾 Currently working in AdTech at dunnhumby, Berlin in C#, .Net Core, and React JS.
+🏢 Graduated as a Full-Stack Developer from Code Academy Berlin in December 2023
  </br>
 👀 Check out my campaigns and projects at www.heleneabiassi.com</br>
 📫 Contact me at abiassi.helene@gmail.com</br>
